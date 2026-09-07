@@ -1,5 +1,29 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "ffzy": {
+      "name": "非凡资源",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
+    },
+    "lzi": {
+      "name": "量子资源",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/"
+    },
+    "ikun": {
+      "name": "iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod"
+    },
+    "bdzy": {
+      "name": "百度资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod"
+    },
+    "guangsu": {
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod"
+    },
+    "hongniu": {
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+    }
   }
 }
